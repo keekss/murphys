@@ -1,0 +1,6 @@
+.ui.borderless.topmenu.menu {
+  height: 200px;
+  background-color: #17361f;
+  box-shadow: none;
+  border: none;
+}
